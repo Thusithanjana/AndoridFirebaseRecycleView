@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HardestAppToBuilt</string>
+    <string name="txtTitle">Hardest App to Build</string>
+    <string name="hntName">Full Name</string>
+    <string name="hntNum">ITXXXXXX</string>
+    <string name="hntEmail">Email</string>
+    <string name="hntPhone">Mobile</string>
+    <string name="btnRegister">REGISTER</string>
+    <string name="txtStudents">Registered Students</string>
+    <string name="btnViewAll">View All</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "932996625646",
+    "firebase_url": "https://fir-tute-72566.firebaseio.com",
+    "project_id": "fir-tute-72566",
+    "storage_bucket": "fir-tute-72566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932996625646:android:4340ea1f6edb0df0dfafff",
+        "android_client_info": {
+          "package_name": "com.mad2020reg.hardestapptobuilt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrYWeNnS0Ug5Nt5t8kl4y9LDkkh3KhI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
