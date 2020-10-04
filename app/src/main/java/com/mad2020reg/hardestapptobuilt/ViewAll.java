@@ -40,8 +40,7 @@ public class ViewAll extends AppCompatActivity {
 
         // specify an adapter (see also next example)
         //String[] myDataset = {"Hello", "Recycle View", "I am a Student"};
-         final List <Student> myDataset = new ArrayList<Student>();
-
+        final List <Student> myDataset = new ArrayList<Student>();
         dbRef = FirebaseDatabase.getInstance().getReference().child("Student");
         dbRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
